@@ -24,5 +24,48 @@
   padding-right: 20px;
   padding-top: 30px;
   padding-bottom: 40px; */
+  margin: 2%;
   background-color: rgb(165, 55, 255);
+  border: green dotted 10px;
+  outline: green ridge 10px;
+
+
+}
+
+.borderst {
+
+  margin: 5%;
+  /* border: red solid 5px; */
+  border-style: groove;
+  border-radius: 10px;
+  /* border-color: black; */
+/* 
+  /* border-width: 5px;  
+    border-top-width: 5px;
+  border-bottom-width: 5px;
+  border-right-width: 5px;
+  border-left-width: 5px; */ 
+
+  /* Border border-width part by part  */
+
+
+  border-top: 150px soild green;
+  border-bottom: 15px; 
+  border-right: 15px;
+  border-left: 15px;
+
+  /* Border border-radius part by part  */
+
+  /* border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px; */
+
+
+
+}
+
+.outlinest {
+  
 }
