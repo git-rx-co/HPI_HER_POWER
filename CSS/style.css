@@ -1,43 +1,43 @@
 /* style inital */
 
-.h1_1 {
+/* .h1_1 {
   color: aqua;
 }
 
 .h1_2 {
   color: rgb(11, 255, 76);
 
-}
+} */
 
 /* padding margin test */
-* {
+/* * {
   margin: 0px;
-}
+} */
 
 /* body {
   margin: 0px;
 } */
 
-.card {
+/* .card {
   padding: 10px 50px 150px 100px;
-  /* padding-left: 100px;
+  padding-left: 100px;
   padding-right: 20px;
   padding-top: 30px;
-  padding-bottom: 40px; */
+  padding-bottom: 40px;
   margin: 2%;
   background-color: rgb(165, 55, 255);
   border: green dotted 10px;
   outline: green ridge 10px;
 
 
-}
+} */
 
 .borderst {
 
-  margin: 5%;
+  /* margin: 5%; */
   /* border: red solid 5px; */
-  border-style: groove;
-  border-radius: 10px;
+  /* border-style: groove;
+  border-radius: 10px; */
   /* border-color: black; */
 /* 
   /* border-width: 5px;  
@@ -49,10 +49,10 @@
   /* Border border-width part by part  */
 
 
-  border-top: 150px soild green;
+  /* border-top: 150px soild green;
   border-bottom: 15px; 
   border-right: 15px;
-  border-left: 15px;
+  border-left: 15px; */
 
   /* Border border-radius part by part  */
 
@@ -66,6 +66,23 @@
 
 }
 
-.outlinest {
-  
+/* outline Style  */
+/* .outlinecl {
+  border-left: 15px solid rgb(0, 0, 0);
+
+  border-radius: 1px;
+  padding: 20px;
+  margin: 5%;
+  outline: 2px solid rgb(66, 65, 65);
+  outline-offset: 50px;
+
 }
+.outlinecl h1 {
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(0, 0, 0)
+}
+.outlinecl p {
+  font-size: 20px;
+  color: black
+} */
