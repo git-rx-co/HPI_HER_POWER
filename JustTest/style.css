@@ -67,20 +67,33 @@
 /* outline Style  */
 .outlinecl {
     border-left: 15px solid rgb(0, 0, 0);
-
     border-radius: 1px;
     padding: 20px;
     margin: 5%;
+    background-color: blue;
     outline: 2px solid rgb(66, 65, 65);
     outline-offset: 50px;
 
 }
+
 .outlinecl h1 {
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(0, 0, 0)
 }
+
 .outlinecl p {
     font-size: 20px;
     color: black
+}
+
+#ic{
+    color: rgb(144, 46, 46); 
+    font-size: 50px; 
+    margin: 12px 100px;
+}
+
+.ti{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
