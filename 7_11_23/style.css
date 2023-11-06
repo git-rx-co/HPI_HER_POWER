@@ -1,0 +1,38 @@
+table {
+    border-radius: 10px;
+ 
+}
+
+table,
+tr,
+td,
+th {
+    border: solid black 0px;
+    padding: 10px 20px;
+    border-collapse: collapse;
+    cursor: pointer;
+
+
+}
+table tr td{
+    margin: 10px 2px;
+}
+th {
+    background-color: #19B6F8;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #cae9d2;
+}
+
+.name {
+    width: 100%;
+}
+
+#tb {
+    width: 50%;
+    margin: auto;
+    overflow-x: auto; 
+    border: 1px solid black;
+}
