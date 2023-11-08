@@ -32,57 +32,104 @@
 
 } */
 
-.borderst {
+.bordertest {
+    margin: 5%;
+    background-color: chocolate;
+    padding: 2%;
 
-  /* margin: 5%; */
-  /* border: red solid 5px; */
-  /* border-style: groove;
-  border-radius: 10px; */
-  /* border-color: black; */
-/* 
-  /* border-width: 5px;  
-    border-top-width: 5px;
-  border-bottom-width: 5px;
-  border-right-width: 5px;
-  border-left-width: 5px; */ 
+    /* border init  */
+    border: rgb(0, 0, 0) solid 30px;
 
-  /* Border border-width part by part  */
+    /* border-left: rgb(0, 0, 0) solid 10px  ; */
 
-
-  /* border-top: 150px soild green;
-  border-bottom: 15px; 
-  border-right: 15px;
-  border-left: 15px; */
-
-  /* Border border-radius part by part  */
-
-  /* border-top-right-radius: 10px;
-  border-top-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px; */
-
+    border-radius: 1rem;
+    font-family: 'Edu TAS Beginner', cursive;
 
 
 }
+
+
+
+
+
+.bordertest1 {
+    margin: 5%;
+    background-color: chocolate;
+    padding: 2%;
+
+    /* border init  */
+    border: rgb(0, 0, 0) dotted 30px;
+
+    /* border-left: rgb(0, 0, 0) solid 10px  ; */
+
+    border-radius: 1rem;
+}
+
+.bordertest2 {
+    font-family: Agbalumo;
+    margin: 5%;
+    background-color: chocolate;
+    padding: 2%;
+    /* border init  */
+    border: rgb(0, 0, 0) groove 30px;
+
+    /* border-left: rgb(0, 0, 0) solid 10px  ; */
+
+    border-radius: 1rem;
+}
+
+
+.q1 {
+    text-align: justify;
+    font-size: 50px;
+    font-size: 3vw;
+
+}
+
+.qf {
+    font-family: 'Ruge Boogie';
+    color: aliceblue;
+    font-size: 50px;
+}
+
+
+.ti {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 
 /* outline Style  */
-/* .outlinecl {
-  border-left: 15px solid rgb(0, 0, 0);
-
-  border-radius: 1px;
-  padding: 20px;
-  margin: 5%;
-  outline: 2px solid rgb(66, 65, 65);
-  outline-offset: 50px;
+.outlinecl {
+    border-left: 15px solid rgb(0, 0, 0);
+    border-radius: 1px;
+    padding: 20px;
+    margin: 5%;
+    background-color: blue;
+    outline: 2px solid rgb(66, 65, 65);
+    outline-offset: 50px;
 
 }
+
 .outlinecl h1 {
-  font-size: 30px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: rgb(0, 0, 0)
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0)
 }
+
 .outlinecl p {
-  font-size: 20px;
-  color: black
-} */
+    font-size: 20px;
+    color: black
+}
+
+#ic{
+    color: rgb(144, 46, 46); 
+    font-size: 50px; 
+    margin: 12px 100px;
+}
+
+.ti{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
